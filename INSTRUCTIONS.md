@@ -1,6 +1,6 @@
 ## Materials
 - 3/4" plywood (this can fit on a 4'x4' sheet, but it is a tight squeeze)
-- 15 1"x3" boards cut to 32 inch lengths <-- this can be made longer or shorter to widen or narrow the bridge
+- 15 32 inch long 1"x3" boards <-- these can be made longer or shorter to widen or narrow the bridge
 - 18 5/16" x 2" carriage bolts with corresponding nuts
 - 1-1/4" wood screws (you will need 61 total)
 
